@@ -309,7 +309,8 @@ exiftool report3_open.pdf
 
 **Screenshot:**
 
-![ExifTool](screenshots/12-exiftool-metadata.png)
+![ExifTool]<img width="679" height="427" alt="458275" src="https://github.com/user-attachments/assets/fde5a0c3-1ce0-4744-a9d8-cddffd764f56" />
+
 *Figure 7.1: ExifTool revealing author j.malik and internal comment referencing /old/ directory*
 
 **Impact:** The comment directly pointed to the database backup in `/old/`, creating a secondary discovery path. Staff identity embedded in metadata enables targeted social engineering.
