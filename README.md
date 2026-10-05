@@ -264,7 +264,8 @@ qpdf --password='!@#$%^&' --decrypt patient_report_3.pdf report3_open.pdf
 
 **Screenshots:**
 
-![PDF2 hash](screenshots/07-pdf2-hash-extracted.png)
+![PDF2 hash]<img width="956" height="601" alt="458281" src="https://github.com/user-attachments/assets/a3dd2d23-c604-4f42-aa58-8b5f5d080a90" />
+
 *Figure 6.1: Hash extracted from patient_report_2.pdf*
 
 ![123456 cracked](screenshots/08-password-123456-cracked.png)
@@ -422,5 +423,10 @@ pentest-report-w4-mediroza/
 All activities documented in this report were performed strictly within the authorised scope of the Networkwalks cybersecurity educational programme. Written permission was obtained before any testing was conducted. This repository is for educational and portfolio purposes only. Unauthorised penetration testing is illegal.
 
 ---
+Author 
 
-*Sandra Chkumbi · Cybersecurity intern · Cohort B083 · Networkwalks · Week 04 Capstone · Black-Box Pentest — Mediroza General Hospital*
+*Sandra Chkumbi · Cybersecurity intern · B083· Networkwalks · Week 04
+
+LinkedIn:
+
+https://www.linkedin.com/in/sandra-chikumbi-536160295?utm_source=share_via&utm_content=profile&utm_medium=member_android
