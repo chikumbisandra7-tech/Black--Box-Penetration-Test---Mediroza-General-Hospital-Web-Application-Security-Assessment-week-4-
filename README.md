@@ -268,16 +268,20 @@ qpdf --password='!@#$%^&' --decrypt patient_report_3.pdf report3_open.pdf
 
 *Figure 6.1: Hash extracted from patient_report_2.pdf*
 
-![123456 cracked](screenshots/08-password-123456-cracked.png)
+![123456 cracked]<img width="1083" height="620" alt="458278" src="https://github.com/user-attachments/assets/e584279e-d114-4b27-8165-4af56d127215" />
+
 *Figure 6.2: patient_report_2.pdf cracked — password '123456'*
 
-![password cracked](screenshots/09-password-cracked.png)
+![password cracked]<img width="948" height="575" alt="458279" src="https://github.com/user-attachments/assets/cfe2b5a0-aa37-4f5d-8c5f-97f2f65bf47f" />
+
 *Figure 6.3: patient_report_1.pdf cracked — password 'password'*
 
-![PDF3 hash](screenshots/10-pdf3-hash-extracted.png)
+![PDF3 hash]<img width="1011" height="547" alt="458282" src="https://github.com/user-attachments/assets/77acbc16-0a21-447b-8c0c-d224eca4cd2c" />
+
 *Figure 6.4: Hash extracted from patient_report_3.pdf*
 
-![qpdf decrypt](screenshots/11-qpdf-decrypt.png)
+![qpdf decrypt]<img width="667" height="448" alt="458276" src="https://github.com/user-attachments/assets/e402be91-5992-4030-9a75-850510403b66" />
+
 *Figure 6.5: qpdf decrypting patient_report_3.pdf with recovered password*
 
 **Impact:** Weak passwords and outdated RC4 encryption provide no meaningful protection. All three files cracked in under 60 seconds.
